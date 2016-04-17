@@ -558,7 +558,7 @@ a {
 html {
   font-size: 12px; }
 
-@media screen and (min-width: 32rem) and (max-width: 48rem) {
+me@media screen and (min-width: 32rem) and (max-width: 48rem) {
   html {
     font-size: 15px; } }
 
